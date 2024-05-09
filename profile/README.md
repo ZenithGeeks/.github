@@ -49,18 +49,4 @@ Joining ZenithGeeks is easy! Whether you're an experienced developer, a student 
 3. **Participate in Events:** Join our workshops, hackathons, and meetups to connect with fellow members and learn new skills.
 4. **Follow us on Social Media:** Stay connected with us on Twitter, LinkedIn, and other social media platforms for updates and announcements.
 
-## Contact Us
-
-Have questions or suggestions? We'd love to hear from you! Reach out to us via email at [contact@zenithgeeks.org](mailto:contact@zenithgeeks.org) or join our [Discord server](#) to chat with other members.
-
-## Support Us
-
-If you believe in our mission and want to support our initiatives, consider becoming a sponsor or making a donation. Your support helps us continue our work and make a positive impact in the tech community.
-
-## License
-
-This repository and its contents are licensed under the [MIT License](LICENSE).
-
----
-
 **Let's innovate together! Join ZenithGeeks and be part of something extraordinary.** 🚀
