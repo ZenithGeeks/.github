@@ -1,7 +1,4 @@
 # Welcome to ZenithGeeks
-
-Sure! Here's a simple ASCII art representation of "ZenithGeeks":
-
 ```
   ZZZZZZZZZZ        EEEEEEEEEEEE    NNNNNNNN        NNNN  IIIIIIIIII  TTTTTTTTTTTTTTTTTTTTTTT
   Z:::::::Z         E::::::::::::E    N:::::::N       N::::N I::::::::I  T:::::::::::::::::::::T
